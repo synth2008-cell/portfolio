@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210.11035mm"
+   width="210.00011mm"
    height="297.00003mm"
-   viewBox="0 0 210.11035 297.00003"
+   viewBox="0 0 210.00011 297.00003"
    version="1.1"
    id="svg5"
    inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
@@ -40,9 +40,9 @@
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1"
      showguides="true"><inkscape:page
-       x="0"
+       x="-3.6941973e-20"
        y="0"
-       width="210.11035"
+       width="210.00011"
        height="297.00003"
        id="page8"
        margin="0"
@@ -52,7 +52,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.2261986,-3.3766792)"><rect
+     transform="translate(-1.2262693,-3.3766792)"><rect
        style="opacity:1;fill:#222a35;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.24692;stroke-linecap:round;stroke-linejoin:round"
        id="rect19"
        width="152.88345"
@@ -60,7 +60,7 @@
        x="58.342705"
        y="3.3766792"
        ry="0.16689505"
-       inkscape:export-filename="04 - Portgolio Ideas/My_Portfolio/01_Page_1.svg"
+       inkscape:export-filename="My_Portfolio/01_Page_1.svg"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" /><circle
        style="fill:#2e3847;fill-opacity:1;stroke-width:0.953448;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
@@ -124,7 +124,7 @@
          y="46.423428">Graphic &amp; Visual Designer</tspan></text><path
        id="rect846"
        style="opacity:1;fill:#171e28;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.4614;stroke-linecap:round;stroke-linejoin:round"
-       d="M 211.3365,65.403393 58.452808,132.61635 1.3363979,106.25 v 193.95972 c 0,0.0925 0.074455,0.16692 0.1669149,0.16692 H 211.16958 c 0.0925,0 0.16692,-0.0745 0.16692,-0.16692 z"
+       d="M 211.22626,65.403393 58.342565,132.61635 1.2261548,106.25 v 193.95972 c 0,0.0925 0.074455,0.16692 0.1669149,0.16692 H 211.05934 c 0.0925,0 0.16692,-0.0745 0.16692,-0.16692 z"
        sodipodi:nodetypes="cccssssc" /><rect
        style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0813572;stroke-linecap:round;stroke-linejoin:round"
        id="rect60"
