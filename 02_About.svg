@@ -60,8 +60,8 @@
        id="rect115" /><rect
        x="904.38361"
        y="704.72998"
-       width="380.19312"
-       height="350.37915"
+       width="394.47653"
+       height="352.63443"
        id="rect200" /><style
        id="style1-36">.cls-1{fill:none;}</style></defs><g
      inkscape:label="Layer 1"
@@ -556,7 +556,7 @@
          y="730.21359"
          id="tspan150"><tspan
            style="fill:#ffcc00"
-           id="tspan148">Inkscape</tspan><tspan
+           id="tspan148">INKSCAPE</tspan><tspan
            style="font-weight:normal;line-height:1.52;font-family:Tahoma;-inkscape-font-specification:Tahoma"
            id="tspan149"> (Vector Graphics)
 </tspan></tspan><tspan
@@ -572,37 +572,42 @@
          y="804.18136"
          id="tspan156"><tspan
            style="fill:#ffd42a"
-           id="tspan154">Adobe Illustrator</tspan><tspan
+           id="tspan154">Adobe ILLUSTRATOR</tspan><tspan
            style="font-weight:normal;line-height:1.52;font-family:Tahoma;-inkscape-font-specification:Tahoma"
-           id="tspan155"> (Vector Graphics)
-</tspan></tspan><tspan
+           id="tspan155"> (Vector </tspan></tspan><tspan
          x="904.38281"
          y="841.16525"
-         id="tspan159"><tspan
-           style="fill:#ffd42a"
-           id="tspan157">Adobe Photoshop</tspan><tspan
+         id="tspan158"><tspan
            style="font-weight:normal;line-height:1.52;font-family:Tahoma;-inkscape-font-specification:Tahoma"
-           id="tspan158"> (Image Editing)
+           id="tspan157">Graphics)
 </tspan></tspan><tspan
          x="904.38281"
          y="878.14913"
          id="tspan161"><tspan
-           style="fill:#ffdd55"
-           id="tspan160">AI Image Generation 
+           style="fill:#ffd42a"
+           id="tspan159">Adobe PHOTOSHOP</tspan><tspan
+           style="font-weight:normal;line-height:1.52;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+           id="tspan160"> (Image Editing)
 </tspan></tspan><tspan
          x="904.38281"
          y="915.13302"
-         id="tspan164"><tspan
+         id="tspan163"><tspan
            style="fill:#ffdd55"
-           id="tspan162">&amp; Editing</tspan><tspan
-           style="font-weight:normal;line-height:1.48;font-family:Tahoma;-inkscape-font-specification:Tahoma"
-           id="tspan163">
+           id="tspan162">AI Image Generation 
 </tspan></tspan><tspan
          x="904.38281"
-         y="949.74871"
+         y="952.11691"
          id="tspan166"><tspan
-           style="line-height:1.48"
+           style="fill:#ffdd55"
+           id="tspan164">&amp; Editing</tspan><tspan
+           style="font-weight:normal;line-height:1.48;font-family:Tahoma;-inkscape-font-specification:Tahoma"
            id="tspan165">
+</tspan></tspan><tspan
+         x="904.38281"
+         y="986.7326"
+         id="tspan168"><tspan
+           style="line-height:1.48"
+           id="tspan167">
 </tspan></tspan></text><circle
        style="fill:#ffd401;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.267;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path287"
